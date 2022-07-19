@@ -30,6 +30,7 @@
 
 	<div class="corner">
 		<!-- TODO put something else here? github link? -->
+		<a href="https://github.com/mclark4386/svelte-kit-1">Repo</a>
 	</div>
 </header>
 
